@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\Bluetooth4_3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_31\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\Bluetooth4_31\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

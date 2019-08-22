@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_3\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_31\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_31\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_3\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_31\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_31\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_31\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_31\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_31\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_31\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_3\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\workspace\\Bluetooth4_3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
